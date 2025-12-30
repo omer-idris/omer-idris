@@ -1,8 +1,32 @@
-[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) [![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/maddhruv) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
+<img src="images/me.jpg" align="right" width="150" />
 
-<!-- This is taken from https://github.com/maddhruv/npm-statistics -->
+# Omer Idris
 
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
+My name is **Omer Idris**. I am a student at **Southern Federal University (Sfedu)**. I am passionate about software development and building modern web applications.
 
-### [maddhruv.dev](https://maddhruv.dev)
+I have experience working with **Advanced Python**, **HTML5**, and **CSS3**. I am constantly working to improve my skills and contribute to interesting projects.
+
+---
+
+**Connect with me:**
+
+[![LinkedIn](img.shields.io)](www.linkedin.com)
+[![Facebook](img.shields.io)](www.facebook.com)
+[![GitHub](img.shields.io)](github.com)
+
+**Languages and Tools:**
+
+<a href="https://www.python.org/" title="Python"><img src="raw.githubusercontent.com" width="40" height="40" /></a>
+<a href="developer.mozilla.org" title="HTML5"><img src="raw.githubusercontent.com" width="40" height="40" /></a>
+<a href="developer.mozilla.org" title="CSS3"><img src="raw.githubusercontent.com" width="40" height="40" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="raw.githubusercontent.com" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="raw.githubusercontent.com" width="40" height="40" /></a>
+
+**Currently Learning:**
+
+- Advanced Python patterns and frameworks.
+- Modern Web Design responsive techniques.
+- Data structures and algorithms.
+
+**Education:**
+- 🎓 Student at **Southern Federal University (Sfedu)**
