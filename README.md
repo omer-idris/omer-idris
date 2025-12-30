@@ -35,4 +35,4 @@ I have experience working with **Python**, **HTML5**, and **CSS3**. I am constan
 - Cybersecurity.
 
 **Education:**
-- 🎓 Student at <a href= '' >Southern Federal University</a>
+- 🎓 Student at <a href= 'https://sfedu.ru/' target='_blank' >Southern Federal University</a>
