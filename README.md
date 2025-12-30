@@ -2,9 +2,9 @@
 
 # Omer Idris
 
-My name is **Omer Idris**. I am a student at **Southern Federal University (Sfedu)**. I am passionate about software development and building modern web applications.
+My name is **Omer Idris**. I am a student at . I am passionate about software development and building modern web applications.
 
-I have experience working with **Advanced Python**, **HTML5**, and **CSS3**. I am constantly working to improve my skills and contribute to interesting projects.
+I have experience working with **Python**, **HTML5**, and **CSS3**. I am constantly working to improve my skills and contribute to interesting projects.
 
 ---
 
@@ -29,4 +29,4 @@ I have experience working with **Advanced Python**, **HTML5**, and **CSS3**. I a
 - Data structures and algorithms.
 
 **Education:**
-- 🎓 Student at **Southern Federal University (Sfedu)**
+- 🎓 Student at <a href= '' >Southern Federal University</a>
