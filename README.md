@@ -1,4 +1,3 @@
-
 <img src="images/me.jpg" align="right" width="150" />
 
 # Omer Idris
