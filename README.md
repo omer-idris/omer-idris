@@ -33,6 +33,7 @@ I have experience working with **Python**, **HTML5**, and **CSS3**. I am constan
 - Advanced Python patterns and frameworks.
 - Modern Web Design responsive techniques.
 - Data structures and algorithms.
+- Cybersecurity.
 
 **Education:**
 - 🎓 Student at <a href= '' >Southern Federal University</a>
