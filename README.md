@@ -1,3 +1,4 @@
+
 <img src="images/me.jpg" align="right" width="150" />
 
 # Omer Idris
@@ -7,6 +8,11 @@ My name is **Omer Idris**. I am a student at . I am passionate about software de
 I have experience working with **Python**, **HTML5**, and **CSS3**. I am constantly working to improve my skills and contribute to interesting projects.
 
 ---
+<a href="https://www.linkedin.com/in/omer-idris0678?trk=contact-info" target="_blank"><button>LinkedIn</button></a> 
+    <a href="https://x.com/Omer_Idris_osma?s=09" text-decoration='none' target="_blank"><button class="xx">X</button></a>
+    <a href="https://www.facebook.com/profile.php?id=61555962286332&mibextid=ZbWKwL" target="_blank"><button>Facebook</button></a>
+   <a target="_blank" href="https://wa.me/+256708503932"><button>WhatsApp</button></a>
+    <a href="mailto:omeridrisos2001@gmail.com" target="_blank"><button>Email</button></a>
 
 **Connect with me:**
 
