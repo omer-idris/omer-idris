@@ -1,4 +1,13 @@
 
+<p>Hi 👋, I'm Omer Idris</p>
+<p>Currently pursuing a Information Security B.S. @ <a href="https://sfedu.ru/">sfedu</a></p>
+      <a href="https://www.linkedin.com/in/omer-idris0678?trk=contact-info" target="_blank"><button>LinkedIn</button></a>
+    <a href="https://x.com/Omer_Idris_osma?s=09" text-decoration='none' target="_blank"><button class="xx">X</button></a>
+    <a href="https://www.facebook.com/profile.php?id=61555962286332&mibextid=ZbWKwL" target="_blank"><button>Facebook</button></a>
+   <a target="_blank" href="https://wa.me/+256708503932"><button>WhatsApp</button></a>
+    <a href="mailto:omeridrisos2001@gmail.com" target="_blank"><button>Email</button></a>
+      <p class="feel-free">Feel free to contact me using any of these platforms but Whatsapp and Email most recommended.</p></header>
+   
 
  <a href=""><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   <a href=""><img alt="Replit" src="https://img.shields.io/badge/replit%29.svg?logo=replit&logoColor=white"></a>
