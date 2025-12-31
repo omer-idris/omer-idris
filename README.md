@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head> <meta charset="UTF-8">
- <link rel="icon" type="image/png" href="https://i.ibb.co/SQb1bgd/apple-touch-icon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
  <a href=""><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
