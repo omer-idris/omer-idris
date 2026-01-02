@@ -2,6 +2,7 @@
   <header>
     <p style="text-align: center; font-size: 50px; margin-bottom: -10px;"> Hi 👋, I'm Omer Idris </p>
 <p style="text-align: center; ">InfoSec B.S. @ <a href="https://sfedu.ru/">SFedU</a>    |   Python Programmer</p>
+    <h3>Contacts</h3>
       <a href="#"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white"></a>
     <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-red.svg?logo=Email&logoColor=white"></a>
   </header>
