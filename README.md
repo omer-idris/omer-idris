@@ -21,7 +21,7 @@
  <h2 id="languages">Languages</h2>
  <ol>
   <li>Arabic: Native</li>
-  <li>English: Fluent <a href="https://certs.duolingo.com/f2iy35td8b943de0" target="_blank">see here</a></li>
+  <li>English: Fluent <a href="https://certs.duolingo.com/f2543de0" target="_blank">see here</a></li>
   <li>Russian: Intermediate </li>
  </ol>
 
